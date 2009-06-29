@@ -1,5 +1,5 @@
 category: Perl
-requires: cygwin perl
+requires: perl
 sdesc: "Perl call parameter validation module"
 ldesc: "The Params::Validate module provides a flexible system for 
 validation method/function call parameters.  The validation can be as 
