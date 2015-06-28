@@ -2,7 +2,7 @@ CPAN_AUTHOR=drolsky
 inherit perl
 
 NAME="perl-Params-Validate"
-VERSION=1.08
+VERSION=1.20
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl function parameter validation module"
